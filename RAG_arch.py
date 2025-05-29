@@ -1,6 +1,7 @@
 
 '''
 This code implement by llamaindex and sentence-transforemr libraries.
+Adding codes to control errors (try-except)
 '''
 
 # Importing libraries
